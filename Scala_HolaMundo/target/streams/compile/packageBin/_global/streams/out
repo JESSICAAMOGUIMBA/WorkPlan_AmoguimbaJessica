@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/jessica/Scala_Ejemplos/target/scala-2.13/scala_ejemplos_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	holaMundo.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jessica/Scala_Ejemplos/target/scala-2.13/classes/holaMundo.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejemplo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jessica/Scala_Ejemplos/target/scala-2.13/classes/ejemplo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejemplo/Ejemplo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jessica/Scala_Ejemplos/target/scala-2.13/classes/ejemplo/Ejemplo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejemplo/Ejemplo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jessica/Scala_Ejemplos/target/scala-2.13/classes/ejemplo/Ejemplo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejemplo/Ejemplo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jessica/Scala_Ejemplos/target/scala-2.13/classes/ejemplo/Ejemplo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
